@@ -21,4 +21,4 @@ Data cleaning was done using microsoft Excel and the data cleaning technique use
 
 ### TOP SELLING PRODUCTS
 
-![](https://github.com/Tamunoibiyeda/Sales-Analysis-for-DAYS/blob/main/REVENUE%20BY%20PRODUCT%20CATEGORY.jpg)
+![](https://github.com/Tamunoibiyeda/Sales-Analysis-for-DAYS/blob/main/PRODUCT.jpg)
