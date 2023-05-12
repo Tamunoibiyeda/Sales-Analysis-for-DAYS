@@ -20,5 +20,5 @@ Data cleaning was done using microsoft Excel and the data cleaning technique use
 ## VIZUALIZATION
 
 ### TOP SELLING PRODUCTS
-
+1.
 ![](https://github.com/Tamunoibiyeda/Sales-Analysis-for-DAYS/blob/main/PRODUCT.jpg)
